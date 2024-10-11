@@ -9,7 +9,7 @@ para interação com o usuário via console. </h4>
 
 <p align="center">Challenge Alura + Oracle - ONE</p>
 <p align="center">
-<img alt="Badge do projeto" src="" width="100%">
+<img alt="Badge do projeto" src="./assets/Badge-Conversor.png" width="50%">
 </p>
 
 <h1 align="center"> 👨‍💻 Projeto </h1>
