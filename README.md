@@ -1,7 +1,7 @@
 <h1 align="center">Conversor de Moedas 🪙</h1>
 
 <h4> Este projeto é um Conversor de Moedas interativo, desenvolvido em Java, 
-que permite aos usuários converter entre diferentes moedas com taxas de câmbio 
+que permite ao usuário converter entre diferentes moedas com taxas de câmbio 
 atualizadas em tempo real. Utilizando uma API de taxas de câmbio, o programa consulta 
 os valores das moedas e fornece uma conversão precisa com base nos dados mais recentes. 
 O projeto oferece uma interface de texto simples e intuitiva 
